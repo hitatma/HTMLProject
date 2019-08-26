@@ -1,1 +1,1 @@
-build -t htmlproject-f ./Dockerfile.txt
+docker build -t htmlproject-f ./Dockerfile.txt
