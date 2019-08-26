@@ -1,1 +1,1 @@
-sudo build -t htmlprojectimage:htmlprojecttag htmlprojectdir
+build htmlprojectimage:htmlprojecttag htmlprojectdir
