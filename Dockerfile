@@ -1,1 +1,1 @@
-build -f "Dockerfile" .
+build https://github.com/hitatma/HTMLProject.git
