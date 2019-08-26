@@ -1,1 +1,1 @@
-build -t htmlprojecttag -f ./Dockerfile
+build -f https://https://github.com/hitatma/HTMLProject/edit/master/Dockerfile
