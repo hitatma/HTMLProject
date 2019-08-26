@@ -1,1 +1,1 @@
-build -t htmlproject -f ./Dockerfile
+docker build  -t htmlprojectimage:htmlprojecttag htmlprojectdir
