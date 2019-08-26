@@ -1,1 +1,1 @@
-build -t htmlproject-f ./Dockerfile
+build -t htmlproject-f ./Dockerfile .
