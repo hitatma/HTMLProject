@@ -1,1 +1,1 @@
-build -f ./Dockerfile
+
