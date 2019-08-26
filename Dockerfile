@@ -1,1 +1,1 @@
-build  -t htmlprojectimage:htmlprojecttag htmlprojectdir
+build -t htmlprojectimage:htmlprojecttag htmlprojectdir
